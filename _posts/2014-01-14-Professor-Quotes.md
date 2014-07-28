@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Professor Quotes
 ---
@@ -6,6 +6,8 @@ title: Professor Quotes
 *Since this is the budget edition of Gravity, you midyears will have to see the professor quotes here.*
 
 ***
+
+“Connecticut banned rum, opiate, and lawyers.” — HIST
 
 “Pulling operators out of bras is sick and wrong.” — PHYS
 
