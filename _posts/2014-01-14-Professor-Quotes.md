@@ -7,7 +7,7 @@ title: Professor Quotes
 
 ***
 
-“Pulling operators out of bras is sick and wrong.” — PHYS
+“Connecticut banned rum, opiate, and lawyers.” — HIST
 
 “I don’t even know whose urine it was.” — CLAS
 
@@ -74,5 +74,3 @@ title: Professor Quotes
 “They did a survey recently to find out the average age of a B’ani’ B’rith member, and it turns out the average age is dead.” — NEJS
 
 “There is no one from Gravity here, is there? Oh, shit.” — ENG
-
-“Connecticut banned rum, opiate, and lawyers.” — HIST
