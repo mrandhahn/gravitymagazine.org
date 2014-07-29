@@ -7,7 +7,7 @@ title: Professor Quotes
 
 ***
 
-“Connecticut banned rum, opiate, and lawyers.” — HIST
+“Pulling operators out of bras is sick and wrong.” — PHYS
 
 “I don’t even know whose urine it was.” — CLAS
 
