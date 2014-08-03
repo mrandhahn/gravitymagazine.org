@@ -6,6 +6,7 @@ title: Professor Quotes
 *Since this is the budget edition of Gravity, you midyears will have to see the professor quotes here.*
 
 ***
+MISTER TORGUE WAS HERE
 
 “Pulling operators out of bras is sick and wrong.” — PHYS
 
