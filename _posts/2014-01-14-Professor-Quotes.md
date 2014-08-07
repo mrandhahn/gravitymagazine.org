@@ -1,6 +1,5 @@
 ﻿---
-layout: post
-title: Professor Quotes
+
 ---
 
 *Since this is the budget edition of Gravity, you midyears will have to see the professor quotes here.*
