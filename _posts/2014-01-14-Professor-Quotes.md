@@ -1,4 +1,5 @@
-﻿*Since this is the budget edition of Gravity, you midyears will have to see the professor quotes here.*
+﻿---
+*Since this is the budget edition of Gravity, you midyears will have to see the professor quotes here.*
 
 ***
 “Pulling operators out of bras is sick and wrong.” — PHYS
