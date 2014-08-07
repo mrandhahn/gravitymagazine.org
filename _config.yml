@@ -12,8 +12,8 @@ description:      ''
 url:              GravityMagazine.org
 
 author:
-  name:           'David Barsky'
-  url:            https://twitter.com/barskles
+  name:           'Max Randhahn'
+  url:            https://twitter.com/admiralhotcakes
 
 paginate:         1
 
@@ -21,4 +21,4 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/davidbarsky/
+  repo:           https://github.com/mrandhahn/
