@@ -18,7 +18,7 @@
 
 "We're gonna vote, but it's a Middle Eastern vote, so I decide no matter what." - IMES
 
-"Excuseme while I drink my mug of vodka." - FA
+"Excuse me while I drink my mug of vodka." - FA
 
 "The birds and the bees know how to do it, but only humans and chimpanzees do not! We have to be taught." - THA
 
