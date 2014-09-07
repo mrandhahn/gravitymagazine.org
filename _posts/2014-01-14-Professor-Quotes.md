@@ -66,7 +66,7 @@
 
 “I always wonder, why don’t Brandeis students smile more?” — CLAS
 
- “They did a survey recently to find out the average age of a B’ani’ B’rith member, and it turns out the average age is dead.” — NEJS
+“They did a survey recently to find out the average age of a B’ani’ B’rith member, and it turns out the average age is dead.” — NEJS
 
 “There is no one from Gravity here, is there? Oh, shit.” — ENG
 
